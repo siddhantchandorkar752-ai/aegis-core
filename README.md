@@ -99,5 +99,5 @@ streamlit run main.py
 ```
 
 <div align="center">
-  <sub>Built with 🖤 for high-density neural operations. </sub>
+  <sub>Built with 🖤 by <b>Siddhant Ganesh Chandorkar</b> for high-density neural operations.</sub>
 </div>
