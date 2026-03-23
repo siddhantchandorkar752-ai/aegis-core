@@ -4,6 +4,10 @@
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFBF&width=435&lines=Neural+Execution+Core;Real-Time+Metrics;Adversarial+Auditing)](https://git.io/typing-svg)
 
   <p align="center">
+    <a href="https://aegis-core-siddhantchandorkar.streamlit.app/"><img src="https://img.shields.io/badge/Live_Deployment-AEGIS_CORE-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" height="30" /></a>
+  </p>
+
+  <p align="center">
     <a href="https://python.org"><img src="https://img.shields.io/badge/Python-3.11-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
     <a href="https://pytorch.org"><img src="https://img.shields.io/badge/PyTorch-2.11.0-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" /></a>
     <a href="https://streamlit.io"><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" /></a>
